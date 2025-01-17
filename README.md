@@ -36,6 +36,8 @@
     <li>Create a comprehensive map showing all bush fires.</li>
 </ol>
 
+Note: The maps have been commented out in the notebook to ensure it can be uploaded to GitHub without issues.
+
 #### <span style="font-size: 18px; color: #000000; font-weight: bold;">Acknowledgements</span>
 <p style="font-size: 16px; color: #333333;">
     The datasets used in this analysis is sourced from <a href="https://firms.modaps.eosdis.nasa.gov" target="_blank" style="color: #0066cc; text-decoration: none;">NASA FIRMS </a> and the <a href="https://www.abs.gov.au" target="_blank" style="color: #0066cc; text-decoration: none;">Australian Bureau of Statistics</a>.
