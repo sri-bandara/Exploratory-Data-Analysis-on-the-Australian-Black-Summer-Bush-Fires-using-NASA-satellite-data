@@ -42,3 +42,10 @@ Note: The maps have been commented out in the notebook to ensure it can be uploa
 <p style="font-size: 16px; color: #333333;">
     The datasets used in this analysis is sourced from <a href="https://firms.modaps.eosdis.nasa.gov" target="_blank" style="color: #0066cc; text-decoration: none;">NASA FIRMS </a> and the <a href="https://www.abs.gov.au" target="_blank" style="color: #0066cc; text-decoration: none;">Australian Bureau of Statistics</a>.
 </p>
+
+#### <span style="font-size: 18px; color: #000000; font-weight: bold;">Demo</span>
+
+<img width="674" height="510" alt="heatmap" src="https://github.com/user-attachments/assets/c6d04e63-63f8-4609-9804-6daf24e29771" />
+<img width="1045" height="650" alt="heatmap_time" src="https://github.com/user-attachments/assets/7ab2d87b-e348-41cb-9ac5-fcc1e0dd0e7a" />
+
+
